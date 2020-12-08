@@ -42,6 +42,9 @@ flutter:
   assets:
     - images/retrov.png
     - images/virom.png
+    - images/coronav.png
+    - images/flaviviridae.png
+    - images/rhabdov.png
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
