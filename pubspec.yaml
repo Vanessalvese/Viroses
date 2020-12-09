@@ -40,7 +40,6 @@ dev_dependencies:
 # The following section is specific to Flutter.
 flutter:
   assets:
-    - images/retrov.png
     - images/virom.png
     - images/coronav.png
     - images/flaviviridae.png
@@ -49,6 +48,12 @@ flutter:
     - images/parvovirus.png
     - images/paramyx.png
     - images/orthomyx.png
+    - images/picornav.png
+    - images/papiloma.png
+    - images/poxv.png
+    - images/herpesv.png
+    - images/retrov.png
+    
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
